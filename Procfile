@@ -1,0 +1,1 @@
+web: python3 ./opencv_test.py --i known_faces
