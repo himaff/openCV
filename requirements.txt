@@ -1,0 +1,7 @@
+libopencv-dev
+python3-opencv
+opencv-python
+dlib
+numpy
+imutils
+pillow
